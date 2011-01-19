@@ -1,9 +1,0 @@
-Package: sGE
-Version: 0.0.1
-Date: 2011-01-18
-Title: Segmentation of GE data
-Author: Maria Ortiz-Estevez <mortiz@ceit.es>
-Maintainer: Maria Ortiz-Estevez <mortiz@ceit.es>
-Depends: R (>= 2.10.1), aroma.affymetrix
-Description: CN and GE joint analysis using segmented GE data.
-License: LGPL (>= 2.1)
